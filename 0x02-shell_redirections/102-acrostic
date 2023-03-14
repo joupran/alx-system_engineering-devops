@@ -1,2 +1,2 @@
 #!/bin/bash
-code
+cut -b -1 | paste -s | \n
