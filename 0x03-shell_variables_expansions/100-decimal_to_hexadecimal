@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((10#10000))
+echo $((10#$DECIMAL))
